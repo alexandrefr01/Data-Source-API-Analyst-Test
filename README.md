@@ -13,15 +13,27 @@ Demonstrate hands-on experience with data extraction using the **GitHub REST API
 ## Repository Structure
 
 Data-Source-API-Analyst-Test/
+
 ├── README.md
+
 ├── Content/
+
 │ ├── api_documentation.md
+
 │ ├── github_api_report.py
+
 │ ├── error_handling.md
+
 │ └── pagination.md
+
+
 ├── Postman_Collection/
-│ └── GitHub_API_Test.postman_collection.json
+
+│ └── GitHub API Test.postman_collection.json
+
+
 └── Colab_Notebook/
+
 └── github_report_colab.ipynb
 
 
