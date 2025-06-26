@@ -1,0 +1,9 @@
+name,full_name,description,url,created_at,updated_at,language
+boysenberry-repo-1,octocat/boysenberry-repo-1,Testing,https://github.com/octocat/boysenberry-repo-1,2018-05-10T17:51:29Z,2025-06-23T04:56:59Z,
+git-consortium,octocat/git-consortium,This repo is for demonstration purposes only.,https://github.com/octocat/git-consortium,2014-03-28T17:55:38Z,2025-06-22T07:25:39Z,
+hello-worId,octocat/hello-worId,My first repository on GitHub.,https://github.com/octocat/hello-worId,2014-06-18T21:26:19Z,2025-06-26T01:12:04Z,
+Hello-World,octocat/Hello-World,My first repository on GitHub!,https://github.com/octocat/Hello-World,2011-01-26T19:01:12Z,2025-06-24T20:07:55Z,
+linguist,octocat/linguist,"Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",https://github.com/octocat/linguist,2016-08-02T17:35:14Z,2025-06-23T12:02:05Z,Ruby
+octocat.github.io,octocat/octocat.github.io,,https://github.com/octocat/octocat.github.io,2014-03-18T20:54:39Z,2025-06-25T08:54:05Z,CSS
+Spoon-Knife,octocat/Spoon-Knife,This repo is for demonstration purposes only.,https://github.com/octocat/Spoon-Knife,2011-01-27T19:30:43Z,2025-06-26T01:18:48Z,HTML
+test-repo1,octocat/test-repo1,,https://github.com/octocat/test-repo1,2016-04-14T21:29:25Z,2025-06-26T01:12:04Z,
