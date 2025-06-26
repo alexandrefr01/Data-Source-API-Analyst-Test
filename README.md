@@ -14,27 +14,28 @@ Demonstrate hands-on experience with data extraction using the **GitHub REST API
 
 Data-Source-API-Analyst-Test/
 
-├── README.md
-
-├── Content/
-
-│ ├── api_documentation.md
-
-│ ├── github_api_report.py
-
-│ ├── error_handling.md
-
-│ └── pagination.md
+README.md
 
 
-├── Postman_Collection/
+Content/
 
-│ └── GitHub API Test.postman_collection.json
+- api_documentation.md
+
+- github_api_report.py
+
+- error_handling.md
+
+- pagination.md
 
 
-└── Colab_Notebook/
+Postman_Collection/
 
-└── github_report_colab.ipynb
+- GitHub API Test.postman_collection.json
+
+
+Colab_Notebook/
+
+- github_report_colab.ipynb
 
 
 ## How to Use
@@ -62,9 +63,9 @@ cd Data-Source-API-Analyst-Test
 
 
 ### API Endpoints Used
-- GET /users/{username}/repos
-- GET /repos/{owner}/{repo}/commits
-- GET /repos/{owner}/{repo}/contents/{path}
+- GET /users/{user}/repos
+- GET /repos/{user}/{repo}/commits
+- GET /repos/{user}/{repo}/contents
 
 See full API details in:
 
