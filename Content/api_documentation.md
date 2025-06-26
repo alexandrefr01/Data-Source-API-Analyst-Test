@@ -2,8 +2,9 @@
 
 ## Endpoints:
 
-- GET /users/{user}/repos → return publics repos
-- GET /repos/{owner}/{repo}/commits →  return commits (use query params per_page e page).
+- GET /users/{user}/repos - return all repos from user
+- GET /repos/{user}/{repo}/commits - return all commits from a repository
+- GET /repos/{user}/{repo}/contents - return all contents from a repository
 
 ## Headers:
 - Authorization: Bearer <TOKEN>
