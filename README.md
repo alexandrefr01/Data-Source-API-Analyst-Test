@@ -30,7 +30,7 @@ Content/
 
 Postman_Collection/
 
-- GitHub API Test.postman_collection.json
+- GitHub API Test.json
 
 
 Colab_Notebook/
