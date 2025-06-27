@@ -175,32 +175,32 @@
 	"variable": [
 		{
 			"key": "version",
-			"value": "",
+			"value": "application/vnd.github.v3+json",
 			"type": "string"
 		},
 		{
 			"key": "token",
-			"value": "",
+			"value": "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",
 			"type": "string"
 		},
 		{
 			"key": "user",
-			"value": "",
+			"value": "octocat",
 			"type": "string"
 		},
 		{
 			"key": "repository",
-			"value": "",
+			"value": "git-consortium",
 			"type": "string"
 		},
 		{
 			"key": "page",
-			"value": "",
+			"value": "1",
 			"type": "string"
 		},
 		{
 			"key": "per_page",
-			"value": "",
+			"value": "100",
 			"type": "string"
 		}
 	]
